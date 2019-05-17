@@ -1,0 +1,20 @@
+{
+  "name": "@helgoland/control",
+  "version": "0.0.1-alpha.74",
+  "dependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@types/geojson": "^7946.0.3",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/helgoland-control.umd.js",
+  "module": "fesm5/helgoland-control.js",
+  "es2015": "fesm2015/helgoland-control.js",
+  "esm5": "esm5/helgoland-control.js",
+  "esm2015": "esm2015/helgoland-control.js",
+  "fesm5": "fesm5/helgoland-control.js",
+  "fesm2015": "fesm2015/helgoland-control.js",
+  "typings": "helgoland-control.d.ts",
+  "metadata": "helgoland-control.metadata.json",
+  "sideEffects": false
+}

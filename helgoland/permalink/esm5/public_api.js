@@ -1,0 +1,14 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of permalink
+ */
+export { HelgolandPermalinkModule } from './lib/permalink.module';
+export { PermalinkInMailComponent } from './lib/permalink-in-mail/permalink-in-mail.component';
+export { PermalinkNewWindowComponent } from './lib/permalink-new-window/permalink-new-window.component';
+export { PermalinkToClipboardComponent } from './lib/permalink-to-clipboard/permalink-to-clipboard.component';
+export { PermalinkService } from './lib/services/permalink.service';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BoZWxnb2xhbmQvcGVybWFsaW5rLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEseUNBQWMsd0JBQXdCLENBQUM7QUFDdkMseUNBQWMscURBQXFELENBQUM7QUFDcEUsNENBQWMsMkRBQTJELENBQUM7QUFDMUUsOENBQWMsK0RBQStELENBQUM7QUFDOUUsaUNBQWMsa0NBQWtDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHBlcm1hbGlua1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL3Blcm1hbGluay5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvcGVybWFsaW5rLWluLW1haWwvcGVybWFsaW5rLWluLW1haWwuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3Blcm1hbGluay1uZXctd2luZG93L3Blcm1hbGluay1uZXctd2luZG93LmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9wZXJtYWxpbmstdG8tY2xpcGJvYXJkL3Blcm1hbGluay10by1jbGlwYm9hcmQuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3NlcnZpY2VzL3Blcm1hbGluay5zZXJ2aWNlJztcbiJdfQ==

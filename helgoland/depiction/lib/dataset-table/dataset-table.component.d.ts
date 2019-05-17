@@ -1,0 +1,32 @@
+import { IterableDiffers, OnInit } from '@angular/core';
+import { DatasetApiInterface, DatasetOptions, DatasetPresenterComponent, DatasetTableData, InternalIdHandler, Time, Timeseries } from '@helgoland/core';
+import { LangChangeEvent, TranslateService } from '@ngx-translate/core';
+export declare class DatasetTableComponent extends DatasetPresenterComponent<DatasetOptions, any> implements OnInit {
+    protected iterableDiffers: IterableDiffers;
+    protected api: DatasetApiInterface;
+    protected datasetIdResolver: InternalIdHandler;
+    protected timeSrvc: Time;
+    protected translateSrvc: TranslateService;
+    preparedData: DatasetTableData[];
+    preparedColors: string[];
+    ready: boolean;
+    timeseriesArray: Timeseries[];
+    private additionalStylesheet;
+    constructor(iterableDiffers: IterableDiffers, api: DatasetApiInterface, datasetIdResolver: InternalIdHandler, timeSrvc: Time, translateSrvc: TranslateService);
+    ngOnInit(): void;
+    sort(event: any): void;
+    protected onLanguageChanged(langChangeEvent: LangChangeEvent): void;
+    reloadDataForDatasets(datasetIds: string[]): void;
+    protected presenterOptionsChanged(options: any): void;
+    protected getIndexFromInternalId(internalId: string): number;
+    protected setSelectedId(internalId: string): void;
+    protected removeSelectedId(internalId: string): void;
+    protected timeIntervalChanges(): void;
+    protected removeDataset(internalId: string): void;
+    protected addDataset(internalId: string, url: string): void;
+    protected datasetOptionsChanged(internalId: string, options: DatasetOptions): void;
+    protected onResize(): void;
+    private addTimeseries(timeseries);
+    private loadTsData(timeseries);
+    private prepareData(timeseries, newdata);
+}

@@ -1,0 +1,13 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+import { Injectable } from '@angular/core';
+import { IdCache } from '@helgoland/core';
+export class TimeRangeSliderCache extends IdCache {
+}
+TimeRangeSliderCache.decorators = [
+    { type: Injectable },
+];
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGltZS1yYW5nZS1zbGlkZXIuc2VydmljZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BoZWxnb2xhbmQvdGltZS1yYW5nZS1zbGlkZXIvIiwic291cmNlcyI6WyJsaWIvdGltZS1yYW5nZS1zbGlkZXIuc2VydmljZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLFVBQVUsRUFBRSxNQUFNLGVBQWUsQ0FBQztBQUMzQyxPQUFPLEVBQUUsT0FBTyxFQUFZLE1BQU0saUJBQWlCLENBQUM7QUFHcEQsTUFBTSwyQkFBNEIsU0FBUSxPQUFpQjs7O1lBRDFELFVBQVUiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBJbmplY3RhYmxlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBJZENhY2hlLCBUaW1lc3BhbiB9IGZyb20gJ0BoZWxnb2xhbmQvY29yZSc7XG5cbkBJbmplY3RhYmxlKClcbmV4cG9ydCBjbGFzcyBUaW1lUmFuZ2VTbGlkZXJDYWNoZSBleHRlbmRzIElkQ2FjaGU8VGltZXNwYW4+IHsgfVxuIl19

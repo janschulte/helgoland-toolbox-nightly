@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of flot
+ */
+export { HelgolandFlotModule } from './lib/flot.module';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BoZWxnb2xhbmQvZmxvdC8iLCJzb3VyY2VzIjpbInB1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUlBLG9DQUFjLG1CQUFtQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBmbG90XG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvZmxvdC5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbW9kZWwvYXhlc09wdGlvbnMnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbW9kZWwvZGF0YVNlcmllcyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tb2RlbC9wbG90JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21vZGVsL3Bsb3RPcHRpb25zJztcbiJdfQ==

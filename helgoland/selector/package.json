@@ -1,0 +1,20 @@
+{
+  "name": "@helgoland/selector",
+  "version": "0.0.1-alpha.74",
+  "dependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@types/geojson": "^7946.0.3",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/helgoland-selector.umd.js",
+  "module": "fesm5/helgoland-selector.js",
+  "es2015": "fesm2015/helgoland-selector.js",
+  "esm5": "esm5/helgoland-selector.js",
+  "esm2015": "esm2015/helgoland-selector.js",
+  "fesm5": "fesm5/helgoland-selector.js",
+  "fesm2015": "fesm2015/helgoland-selector.js",
+  "typings": "helgoland-selector.d.ts",
+  "metadata": "helgoland-selector.metadata.json",
+  "sideEffects": false
+}

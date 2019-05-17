@@ -1,0 +1,20 @@
+{
+  "name": "@helgoland/permalink",
+  "version": "0.0.1-alpha.74",
+  "dependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "ngx-clipboard": "^9.1.3",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/helgoland-permalink.umd.js",
+  "module": "fesm5/helgoland-permalink.js",
+  "es2015": "fesm2015/helgoland-permalink.js",
+  "esm5": "esm5/helgoland-permalink.js",
+  "esm2015": "esm2015/helgoland-permalink.js",
+  "fesm5": "fesm5/helgoland-permalink.js",
+  "fesm2015": "fesm2015/helgoland-permalink.js",
+  "typings": "helgoland-permalink.d.ts",
+  "metadata": "helgoland-permalink.metadata.json",
+  "sideEffects": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@helgoland/favorite",
+  "version": "0.0.1-alpha.74",
+  "dependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@types/geojson": "^7946.0.3",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/helgoland-favorite.umd.js",
+  "module": "fesm5/helgoland-favorite.js",
+  "es2015": "fesm2015/helgoland-favorite.js",
+  "esm5": "esm5/helgoland-favorite.js",
+  "esm2015": "esm2015/helgoland-favorite.js",
+  "fesm5": "fesm5/helgoland-favorite.js",
+  "fesm2015": "fesm2015/helgoland-favorite.js",
+  "typings": "helgoland-favorite.d.ts",
+  "metadata": "helgoland-favorite.metadata.json",
+  "sideEffects": false
+}

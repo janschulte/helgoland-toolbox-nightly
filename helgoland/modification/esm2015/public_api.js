@@ -1,0 +1,14 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of modification
+ */
+export { HelgolandModificationModule } from './lib/modification.module';
+export { ColorSelectorComponent } from './lib/color-selector/color-selector.component';
+export { AxesOptionsComponent } from './lib/axes-options/axes-options.component';
+export { DragOptionsComponent } from './lib/drag-options/drag-options.component';
+export { MinMaxRangeComponent } from './lib/min-max-range/min-max-range.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BoZWxnb2xhbmQvbW9kaWZpY2F0aW9uLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsNENBQWMsMkJBQTJCLENBQUM7QUFDMUMsdUNBQWMsK0NBQStDLENBQUM7QUFDOUQscUNBQWMsMkNBQTJDLENBQUM7QUFDMUQscUNBQWMsMkNBQTJDLENBQUM7QUFDMUQscUNBQWMsNkNBQTZDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG1vZGlmaWNhdGlvblxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL21vZGlmaWNhdGlvbi5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY29sb3Itc2VsZWN0b3IvY29sb3Itc2VsZWN0b3IuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2F4ZXMtb3B0aW9ucy9heGVzLW9wdGlvbnMuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2RyYWctb3B0aW9ucy9kcmFnLW9wdGlvbnMuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21pbi1tYXgtcmFuZ2UvbWluLW1heC1yYW5nZS5jb21wb25lbnQnO1xuIl19

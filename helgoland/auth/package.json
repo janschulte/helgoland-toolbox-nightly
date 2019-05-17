@@ -1,0 +1,21 @@
+{
+  "name": "@helgoland/auth",
+  "version": "0.0.1-alpha.74",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/helgoland-auth.umd.js",
+  "module": "fesm5/helgoland-auth.js",
+  "es2015": "fesm2015/helgoland-auth.js",
+  "esm5": "esm5/helgoland-auth.js",
+  "esm2015": "esm2015/helgoland-auth.js",
+  "fesm5": "fesm5/helgoland-auth.js",
+  "fesm2015": "fesm2015/helgoland-auth.js",
+  "typings": "helgoland-auth.d.ts",
+  "metadata": "helgoland-auth.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@helgoland/caching",
+  "version": "0.0.1-alpha.74",
+  "dependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@types/geojson": "^7946.0.3",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/helgoland-caching.umd.js",
+  "module": "fesm5/helgoland-caching.js",
+  "es2015": "fesm2015/helgoland-caching.js",
+  "esm5": "esm5/helgoland-caching.js",
+  "esm2015": "esm2015/helgoland-caching.js",
+  "fesm5": "fesm5/helgoland-caching.js",
+  "fesm2015": "fesm2015/helgoland-caching.js",
+  "typings": "helgoland-caching.d.ts",
+  "metadata": "helgoland-caching.metadata.json",
+  "sideEffects": false
+}

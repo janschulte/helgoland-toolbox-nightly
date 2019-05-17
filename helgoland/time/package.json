@@ -1,0 +1,21 @@
+{
+  "name": "@helgoland/time",
+  "version": "0.0.1-alpha.74",
+  "dependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@types/geojson": "^7946.0.3",
+    "moment": "^2.22.2",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/helgoland-time.umd.js",
+  "module": "fesm5/helgoland-time.js",
+  "es2015": "fesm2015/helgoland-time.js",
+  "esm5": "esm5/helgoland-time.js",
+  "esm2015": "esm2015/helgoland-time.js",
+  "fesm5": "fesm5/helgoland-time.js",
+  "fesm2015": "fesm2015/helgoland-time.js",
+  "typings": "helgoland-time.d.ts",
+  "metadata": "helgoland-time.metadata.json",
+  "sideEffects": false
+}
